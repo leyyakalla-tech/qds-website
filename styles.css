@@ -27,7 +27,7 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
-img { max-width: 100%; }
+img { max-width: 100%; height: auto; }
 a { color: var(--blue); }
 a:hover { color: var(--green); }
 :focus-visible { outline: 3px solid var(--turquoise); outline-offset: 3px; }

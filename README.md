@@ -37,5 +37,4 @@ The guideline specifies Calibri for the web. Carlito, which has the same metrics
 
 ## Still to add
 
-- A portrait photo: put it at `assets/leyya-kalla.jpg` and swap it in where `index.html` says "Replace with a portrait".
 - Insights articles (later, from LinkedIn).

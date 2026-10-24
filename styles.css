@@ -247,3 +247,11 @@ p { margin: 0; }
   .cases { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* WhatsApp contact link */
+.contact-actions a.whatsapp {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 44px;
+  color: #fff; font-weight: 700; text-decoration: none;
+}
+.contact-actions a.whatsapp svg { color: #25D366; flex: none; }
+.contact-actions a.whatsapp:hover { text-decoration: underline; }
